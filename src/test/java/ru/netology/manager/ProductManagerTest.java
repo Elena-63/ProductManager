@@ -16,7 +16,7 @@ public class ProductManagerTest {
     private Book item2 = new Book(2, "Harry Potter", 1000, "Joanne Rowling");
     private Book item3 = new Book(3, "dot com testing", 800, "Roman Savin");
     private Book item8 = new Book(8, "", 800, "");
-    private Smartphone item4 = new Smartphone(4, "Honor", 3000, "Chine");
+    private Smartphone item4 = new Smartphone(4, "Honor", 4000, "Chine");
     private Smartphone item5 = new Smartphone(5, "Samsung", 2500, "Korea");
     private Smartphone item6 = new Smartphone(6, "Nokia", 10000, "Finland");
     private Smartphone item7 = new Smartphone(7, "xiaomi", 6000, "Finland");
